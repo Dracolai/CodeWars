@@ -1,6 +1,8 @@
 """
-Code d'entraînement fait sur 'CodeWars'
----------------------------------------
+Training code on 'CodeWars'
+Links of the kata :
+https://www.codewars.com/kata/56d060d90f9408fb3b000b03
+------------------------------------------------------
 Author : Antonin Valente
 Année : 2023
 Contact : valente@lpccaen.in2p3.fr
